@@ -1,5 +1,8 @@
 apple
-pear
+2 pears
 orange
 lemon
 banana
+
+kiwi
+clementin
